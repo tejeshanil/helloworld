@@ -13,8 +13,6 @@ int main()
 
     printf("arr value is = %s\n",arr);
 
-
-
     printf("%d\n",strlen(srr));
     printf("%d\n",sizeof(srr));
 
