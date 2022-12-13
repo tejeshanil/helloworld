@@ -5,6 +5,7 @@ int main()
     int data = 0;
     printf("Enter the number\n");
     scanf("%d",&data); //Get the number
+    
     sign = (data > 0) - (data < 0); // check the sign of the number
     if(sign == 1)
     {
